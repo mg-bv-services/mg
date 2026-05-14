@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://mg-bv.nl"),
+  metadataBase: new URL("https://mg-services.nl"),
   alternates: {
     canonical: "/",
   },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "M.G B.V. | Transport, Beveiliging & Reiniging",
     description:
       "Eén partner voor transport, beveiliging en reiniging in heel Nederland.",
-    url: "https://mg-bv.nl",
+    url: "https://mg-services.nl",
     siteName: "M.G B.V.",
     locale: "nl_NL",
     type: "website",
@@ -67,7 +67,7 @@ const structuredData = {
   name: "M.G B.V.",
   description:
     "Professionele transport-, beveiligings- en reinigingsdiensten in heel Nederland.",
-  url: "https://mg-bv.nl",
+  url: "https://mg-services.nl",
   telephone: "+31684780008",
   email: "info@mg-services.nl",
   address: {

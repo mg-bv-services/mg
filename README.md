@@ -98,7 +98,7 @@ Of push naar GitHub en koppel het repo aan Vercel — `vercel.json` staat al kla
 
 Zoek en vervang in de code:
 - E-mail: `info@mg-services.nl` → echte adres
-- Domein: `https://mg-bv.nl` in `app/layout.tsx` → echte domein
+- Domein: `https://mg-services.nl` in `app/layout.tsx` → echte domein
 
 De afbeeldingen komen nu van Unsplash (zie `next.config.ts`). Vervang URLs in
 `Hero.tsx`, `WhyUs.tsx`, `CTASection.tsx` en `contact/page.tsx` met eigen foto's
